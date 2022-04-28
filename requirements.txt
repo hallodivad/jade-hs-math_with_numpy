@@ -1,4 +1,5 @@
-numpy==1.17
-matplotlib==3.5.1
+numpy
+matplotlib
+scipy
 ipykernel
 mpld3
