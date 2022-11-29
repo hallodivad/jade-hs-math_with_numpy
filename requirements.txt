@@ -3,5 +3,4 @@ matplotlib
 scipy
 ipykernel
 mpld3
-pyaudio
 sounddevice
